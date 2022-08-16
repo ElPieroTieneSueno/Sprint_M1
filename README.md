@@ -13,16 +13,20 @@
 Equipo 2: Tiene Sueño el Piero
 
 Integrantes:
-- Miguel Lucero Gatica https://github.com/miguellucero123/calculadora
-- Pamela Correa Barrera  https://github.com/Pame-b182/calculadora.frontend
+- Pamela Correa Barrera  https://github.com/Pame-b182/Sprint_M2
 - Nelson Medel Bustamante  https://github.com/chinomedel/calculadora
 - Sebastian Muñoz Zamora  https://github.com/SebMunz/calculadora
+
+
 
 ***
 ### 2. Información General <a name="Información-General"></a>
 
 Nombre del proyecto
     Sprint Módulo 2: "Yo Quiero Otro Mundo”
+    
+    #### Ver Proyecto en Vivo
+    - [https://elpierotienesueno.github.io/Sprint_M2/] (https://elpierotienesueno.github.io/Sprint_M2/)
 
 ***
 ### 3. Ejecución y Configuración del Proyecto <a name="Ejecución-y-Configuración-del-Proyecto"></a>
