@@ -13,9 +13,9 @@
 Equipo 2: Tiene Sueño el Piero
 
 Integrantes:
-- [Pamela Correa Barrera] (https://github.com/Pame-b182/Sprint_M2)
-- [Nelson Medel Bustamante] (https://github.com/chinomedel/calculadora)
-- [Sebastian Muñoz Zamora] (https://github.com/SebMunz/calculadora)
+* [Pamela Correa Barrera] (https://github.com/Pame-b182/Sprint_M2)
+* [Nelson Medel Bustamante] (https://github.com/chinomedel/calculadora)
+* [Sebastian Muñoz Zamora] (https://github.com/SebMunz/calculadora)
 
 
 
