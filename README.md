@@ -25,8 +25,8 @@ Integrantes:
 Nombre del proyecto
     Sprint Módulo 2: "Yo Quiero Otro Mundo”
     
-    #### Ver Proyecto en Vivo
-    - [https://elpierotienesueno.github.io/Sprint_M2/] (https://elpierotienesueno.github.io/Sprint_M2/)
+#### Ver Proyecto en Vivo
+- [https://elpierotienesueno.github.io/Sprint_M2/] (https://elpierotienesueno.github.io/Sprint_M2/)
 
 ***
 ### 3. Ejecución y Configuración del Proyecto <a name="Ejecución-y-Configuración-del-Proyecto"></a>
